@@ -1,1 +1,1 @@
-# oyuncuk
+# run to collect diamonds
